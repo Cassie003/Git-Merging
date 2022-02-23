@@ -1,5 +1,9 @@
+body{
+    background-color:beige ;
+}
+
 img {
     width:30pc ;
-    float:center;
+    float:no;
     padding-left:30pc ;
 }
